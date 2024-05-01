@@ -26,15 +26,17 @@
         
         <h2>What is there to do?</h2>
         
-        <h3>Durango is built around the Animas river, making hiking and sightseeing <br> an enjoyable adventure. The mountainous terrain boasts some of the most <br> scenic hiking trails in all of Colorado. </h3> 
-        <h3> Durango has a narrow-guage railroad that will take you along the <strong>Animas River</strong> and through the <strong>San Juan Mountains</strong>. 
+        <h3>Durango is built around the Animas River, making hiking and sightseeing <br> an enjoyable adventure. The mountainous terrain boasts some of the most <br> scenic hiking trails in all of Colorado. </h3> 
+        <h3> Durango has a narrow-gauge railroad that will take you along the <strong>Animas River</strong> and through the <strong>San Juan Mountains</strong>. 
         </h3>
         <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg/220px-D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg" width="400">
         <p><em>(Durango to Silverton Narrow-Gauge train)</em></p>
         <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/San_Juans_north_of_Durango.jpg/1280px-San_Juans_north_of_Durango.jpg" width="400">
         <p><em>(San Juan Mountain Range, Viewed from Durango)</em></p>
-        <h3>After taking the train all the way to Silverton, you'' be greeted with a small mining town. It was origanlly settled as a <strong class="gold" >gold mining </strong> operation. However in 1874 <strong class="silver" >silver</strong> was found, and the town was named after it.</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Silverton-Train-Depot.jpg/785px-Silverton-Train-Depot.jpg"width="400">
+        <h3>After taking the train to Silverton, you'll be greeted with a small mining town. It was originally settled as a <strong class="gold" >gold mining </strong> operation. However in 1874 <strong class="silver" >silver</strong> was found, and the town was named after it.</h3>
+        
+        <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Silverton-Train-Depot.jpg/785px-Silverton-Train-Depot.jpg" width="400">
+        
         <p><em>(Silverton Historic Depot)</em></p>
         <h1>Top 3 places to eat in Durango</h1>
     <ol>
