@@ -28,7 +28,7 @@
         <h3>Durango is built around the Animas River, making hiking and sightseeing <br> an enjoyable adventure. The mountainous terrain boasts some of the most <br> scenic hiking trails in all of Colorado. </h3> 
         <h3> Durango has a narrow-gauge railroad that will take you along the <strong>Animas River</strong> and through the <strong>San Juan Mountains</strong>. 
         </h3>
-        <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg/220px-D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg" width="400">
+        <img src= "https://www.trains.com/wp-content/uploads/2021/03/TRN_DS_Silverton.jpg" width="400">
         <p><em>(Durango to Silverton Narrow-Gauge train)</em></p>
         <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/San_Juans_north_of_Durango.jpg/1280px-San_Juans_north_of_Durango.jpg" width="400">
         <p><em>(San Juan Mountain Range, Viewed from Durango)</em></p>
