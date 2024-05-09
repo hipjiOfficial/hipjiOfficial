@@ -59,6 +59,6 @@
         <a href="https://publichouse701.com/" target="_blank">Visit the Public House Website</a>
         </ol>
         <h1>Conclusion</h1>
-        <h3>If you ever find yourself in Colorado, make sure to check out Durango! I'm sure you will have yourself a good time. <br> <a href="https://www.durango.com/ target="_blank"">Learn more about Durango here!</a> </h3>
+        <h3>If you ever find yourself in Colorado, make sure to check out Durango! I'm sure you will have yourself a good time. <br> <a href="https://www.durango.com/" target="_blank">Learn more about Durango here!</a> </h3>
     </body>
 </html>
