@@ -41,18 +41,21 @@
     <ol>
         <strong>
         <li>Durango Joes Coffee</li>
+        <img src= "https://ucarecdn.com/3313bc32-940e-4eaa-bc9d-9308c919a1d0/-/format/auto/-/preview/3000x3000/-/quality/lighter/" width="400">
         </strong>
-        <p>Durango Joes Coffee only sells coffee and pastries,<br> but I am obligated to put Durango Joes on the number<br> one spot on every list.</p>
+        <p>Durango Joes Coffee only sells coffee and pastries, but I am obligated to put Durango Joes on the number<br> one spot on every list.</p>
         <strong>
         <li>Sage Fresh Eats</li>
+        <img src= "https://www.durango.com/wp-content/uploads/2021/08/Sage_Zia-001.jpg" width="400">
         </strong>
         <p>Sage Fresh Eats serves soup, salad, sandwiches, and bowls. It's a very fast and healthy restaurant Everything they use is locally sourced, and they make their own bread.</p>
         <strong>
         <li>Public House 701</li>
+        <img src= "https://cdnparap100.paragonrels.com/ParagonImages/Property/P10/CREN/796471/0/0/0/c668aba3d3551f15eeb53cbc66a8d027/5/7b0da98836fa0300d38909c166d9e6b8/796471.JPG" width="400">
         </strong>
             <p>At this establishment you can enjoy fine bistro food and craft beers.</p>
         </ol>
         <h1>Conclusion</h1>
-        <h3>If you ever find yourself in Colorado, make sure to check out Durango! If you don't like it, I will find your house and burn it down.</h3>
+        <h3>If you ever find yourself in Colorado, make sure to check out Durango! I'm sure you will have yourself a good time. <br> <strong> This page is a work in progress, there may be errors> <strong> </h3>
     </body>
 </html>
